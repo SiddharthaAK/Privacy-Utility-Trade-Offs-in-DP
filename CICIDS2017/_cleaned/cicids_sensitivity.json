@@ -1,0 +1,19 @@
+{
+  "B_CLIP": 11663.0,
+  "bytes_clip_pct": 90.0,
+  "capture_dates": [
+    "2017-07-03",
+    "2017-07-04",
+    "2017-07-05",
+    "2017-07-06",
+    "2017-07-07"
+  ],
+  "total_flows": 2830743,
+  "total_attack_flows": 557646,
+  "sensitivities": {
+    "ALERT_COUNT": 1,
+    "TOTAL_FLOWS": 1,
+    "TOTAL_BYTES": 11663.0
+  },
+  "kpi_note": "TOTAL_FLOWS is used as a proxy for unique source IPs, which are not available in the CICFlowMeter CSV export."
+}
